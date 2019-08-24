@@ -1,7 +1,7 @@
 # Bootstrap_4-boiler-plate
 A basic set-up to get started with raw Front-end Development without any framework !!
 
-<img src="https://media.giphy.com/media/kE9ZA5cSAZXexajGOA/giphy.gif" alt="preview of contents" >
+<img src="https://raw.githubusercontent.com/Subhom11/mygitsrc/master/src/gif/boiler-plate-gif.gif" alt="preview of contents" >
 
 **Note** you can use these files any different ways you like ;)
 
